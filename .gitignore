@@ -1,6 +1,8 @@
 engine_src.py
 engine_src_*.py
 test_engine.py
+match.py
+duel.py
 out/
 __pycache__/
 *.bak
